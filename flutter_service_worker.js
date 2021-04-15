@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/packages/fluttertoast/assets/toastify.js": "8f5ac78dd0b9b5c9959ea1ade77f68ae",
 "assets/assets/image/hiw1.png": "7a9247d2b2b74616eb0440249a7d83f0",
 "assets/assets/image/hiw2.png": "8242a89492f35753e7c2ea1249ff918b",
-"assets/assets/image/dava.png": "1d7224284fb7e6f716d2ef9d4d07620c",
+"assets/assets/image/dava.png": "bfae4b19b3ce1472d196286ed92daf00",
 "assets/assets/image/hiw3.png": "071def130a644c478c04a64726275fce",
 "assets/assets/icon/DavaPakistan2.png": "04d1fdf97b7fca08f13be5a6653811dc",
 "assets/assets/icon/appStore.png": "f5d36baa01cc848403efffd8c88c7c96",
@@ -32,9 +32,9 @@ const RESOURCES = {
 "assets/NOTICES": "f05d87fd019814dc06bcb34926cba2b2",
 "version.json": "083194a63ea16999f72d581815bba77b",
 "manifest.json": "e29990be752da738d4496bd90b9473e1",
-"index.html": "15cfea850f4e1b40e2b46031acce6a77",
-"/": "15cfea850f4e1b40e2b46031acce6a77",
-"main.dart.js": "80ebe1867024bcc24c532bed394c3c06"
+"index.html": "ab8b52a4d6fada37d462ca394b9030f5",
+"/": "ab8b52a4d6fada37d462ca394b9030f5",
+"main.dart.js": "cb1584809213ee2a736683428b08cda4"
 };
 
 // The application shell files that are downloaded before a service worker can
