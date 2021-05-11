@@ -40661,7 +40661,7 @@ o.fy="Populer Searches"
 o.go=!1}else{o.fy="Recent Searches"
 o.go=!0}if(J.aE(o.e)>20)o.e=J.ayK(o.e,0,9)
 s=t.L_
-o.y=H.b([new V.bt(2536,"Rotavin",r,C.l,C.l,C.l,"",C.l,"Genome",H.b([new V.iw(0,"80",q,0,616,70,20)],s)),new V.bt(6998,"Augmentin",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"625mg",q,1038,609,164,6)],s)),new V.bt(6907,"Amoxil",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"250mg","Suspension",1007,610,106,6)],s)),new V.bt(10115,"Panadol CF",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"",q,0,609,300,100)],s)),new V.bt(13666,"Calpol",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"500mg",q,0,609,576,500)],s)),new V.bt(6870,"Vibramycin",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"100mg","Capsule",0,616,901,120)],s))],t.c4)
+o.y=H.b([new V.bt(15007,"Rotavin",r,C.l,C.l,C.l,"",C.l,"Genome",H.b([new V.iw(0,"80",q,0,616,70,20)],s)),new V.bt(21718,"Augmentin",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"625mg",q,1038,609,164,6)],s)),new V.bt(21636,"Amoxil",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"250mg","Suspension",1007,610,106,6)],s)),new V.bt(20682,"Panadol CF",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"",q,0,609,300,100)],s)),new V.bt(24668,"Calpol",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"500mg",q,0,609,576,500)],s)),new V.bt(21599,"Vibramycin",r,C.l,C.l,C.l,"",C.l,p,H.b([new V.iw(0,"100mg","Capsule",0,616,901,120)],s))],t.c4)
 o.O(new S.agz())},
 $S:414}
 S.agz.prototype={
@@ -40689,7 +40689,7 @@ S.ags.prototype={
 $2:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g="Download the Dava Pakistan App Now",f=b.b,e=!(f<600)||!1
 P.cC(f)
 s=this.a
-if(f<500){s.f=s.x=10
+if(f<=500){s.f=s.x=10
 s.k3=35
 s.r=10}else s.k3=48
 if(e)f=M.ac(h,h,C.h,h,h,h,h,h,h,h,h,h,h)
