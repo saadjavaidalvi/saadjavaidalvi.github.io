@@ -43,8 +43,8 @@ const RESOURCES = {
 "assets/NOTICES": "3049f3698f48ae163c0b877e742b91d2",
 "version.json": "e86fc19fa28b8ea387ac147a3ad8c441",
 "manifest.json": "ab801091d693f829d3552dccdbeb2ecd",
-"index.html": "e00b5a8370b97cc3856756239123b5c7",
-"/": "e00b5a8370b97cc3856756239123b5c7",
+"index.html": "0a340daf26e195a3ea9495ce0ec8f6cc",
+"/": "0a340daf26e195a3ea9495ce0ec8f6cc",
 "main.dart.js": "e8c759bc34fc0d073be7a9529172ce1c"
 };
 
