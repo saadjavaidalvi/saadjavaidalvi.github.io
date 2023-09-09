@@ -54335,7 +54335,7 @@ n=k.Wu("Home",!0)
 m=k.Fq("Portfolio",!1,new A.Y_())
 l=$.UX
 l.toString
-return new A.rz(A.V8(B.dT,A.a([g,h,r,A.a2D(A.a([new A.dr(q,A.jj(A.a([p,o,A.a2U(A.jj(A.a([n,m,A.Mb(j,j,j,j,j,j,j,0.01328125*l),k.wn("Github",B.wM,new A.Y0(k)),k.wn("LinkedIn",B.wL,new A.Y1(k)),k.wn("saad_resume_web@gmail.com",B.wP,new A.Y2(k))],i),B.ae,B.nm,B.ak))],i),B.ae,B.aj,B.ak),j),A.a2D(A.a([new A.dr(A.w8(40,120,0,177),A.jj(A.a([A.t8("Hi,\nI\u2019m Saad,\nA Flutter\nDeveloper",A.ha(j,j,B.h,j,j,j,j,j,j,j,j,new A.fM().i5(48),j,j,B.bg,j,j,!0,j,j,j,j,j,j,j,j))],i),B.ae,B.aj,B.ak),j),new A.dr(A.w8(40,120,0,0),A.jj(A.a([A.t8("Mobile Developer",A.ha(j,j,B.h,j,j,j,j,j,j,j,j,new A.fM().i5(20),j,j,j,j,j,!0,j,j,j,j,j,j,j,j))],i),B.ae,B.aj,B.ak),j)],i),B.aj)],i),B.aj)],i),B.fq),j)},
+return new A.rz(A.V8(B.dT,A.a([g,h,r,A.a2D(A.a([new A.dr(q,A.jj(A.a([p,o,A.a2U(A.jj(A.a([n,m,A.Mb(j,j,j,j,j,j,j,0.01328125*l),k.wn("Github",B.wM,new A.Y0(k)),k.wn("LinkedIn",B.wL,new A.Y1(k)),k.wn("saadjavaidalvi@gmail.com",B.wP,new A.Y2(k))],i),B.ae,B.nm,B.ak))],i),B.ae,B.aj,B.ak),j),A.a2D(A.a([new A.dr(A.w8(40,120,0,177),A.jj(A.a([A.t8("Hi,\nI\u2019m Saad,\nA Flutter\nDeveloper",A.ha(j,j,B.h,j,j,j,j,j,j,j,j,new A.fM().i5(48),j,j,B.bg,j,j,!0,j,j,j,j,j,j,j,j))],i),B.ae,B.aj,B.ak),j),new A.dr(A.w8(40,120,0,0),A.jj(A.a([A.t8("Mobile Developer",A.ha(j,j,B.h,j,j,j,j,j,j,j,j,new A.fM().i5(20),j,j,j,j,j,!0,j,j,j,j,j,j,j,j))],i),B.ae,B.aj,B.ak),j)],i),B.aj)],i),B.aj)],i),B.fq),j)},
 Fq(a,b,c){var s=null,r=A.w8(0,0,58,0),q=b?B.hF:B.h
 return new A.dr(r,new A.CL(new A.Y3(c),s,s,s,s,B.F,s,!1,s,A.t8(a,A.ha(s,s,q,s,s,s,s,s,s,s,s,new A.fM().i5(20),s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s)),s),s)},
 Wu(a,b){return this.Fq(a,b,null)},
@@ -54343,7 +54343,7 @@ wn(a,b,c){var s=null
 return new A.dr(A.w8(0,0,24,0),A.a35(!1,!0,A.jj(A.a([new A.dr(A.w8(0,0,8,0),A.a6i(b,B.h,s,new A.fM().i5(18)),s),A.t8(a,A.ha(s,s,B.h,s,s,s,s,s,s,s,s,new A.fM().i5(14),s,s,B.o,s,s,!0,s,s,s,s,s,s,s,s))],t.nA),B.ae,B.aj,B.ak),s,!0,s,s,s,s,s,s,s,s,s,new A.Y4(c),s,s,s,s),s)},
 td(){var s=0,r=A.W(t.z),q,p
 var $async$td=A.X(function(a,b){if(a===1)return A.T(b,r)
-while(true)switch(s){case 0:q=A.a3Z(null,"saad_resume_web@gmail.com",null,"mailto").goh()
+while(true)switch(s){case 0:q=A.a3Z(null,"saadjavaidalvi@gmail.com",null,"mailto").goh()
 p=window
 p.toString
 B.dG.pR(p,q,"_blank")
@@ -54362,7 +54362,7 @@ $0(){var s=0,r=A.W(t.P),q
 var $async$$0=A.X(function(a,b){if(a===1)return A.T(b,r)
 while(true)switch(s){case 0:q=window
 q.toString
-B.dG.pR(q,"https://github.com/saad_resume_web","_blank")
+B.dG.pR(q,"https://github.com/saadjavaidalvi","_blank")
 return A.U(null,r)}})
 return A.V($async$$0,r)},
 $S:29}
