@@ -2,6 +2,9 @@
 <html>
 
 <head>
+  <script src="https://unpkg.com/canvaskit-wasm@0.33.0/bin/canvaskit.js"></script>
+  <link rel="preload" href="https://unpkg.com/canvaskit-wasm@0.33.0/bin/canvaskit.wasm" as="fetch"
+    crossOrigin="anonymous">
   <!--
     If you are serving your web app in a path other than the root, change the
     href value below to reflect the base path you are serving from.
@@ -39,7 +42,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = "3994349022";
+    const serviceWorkerVersion = "110364015";
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
